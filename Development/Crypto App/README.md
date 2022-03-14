@@ -4,6 +4,7 @@
 We’re going to make a crypto currency price checking app. 
 
 <h2> DEMO</h2>
+
 ![Finished App](https://github.com/londonappbrewery/Images/blob/master/bitcoin-flutter-demo.gif)
 
 
